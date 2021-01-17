@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/narpat-patel-676609194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/narpat-patel-676609194/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/narpat patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="narpat patel" height="30" width="40" /></a>
 <a href="https://instagram.com/narpatpatel031999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="narpatpatel031999" height="30" width="40" /></a>
 </p>
 
